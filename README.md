@@ -1,6 +1,7 @@
 # Calories-Burnt-Prediction
 PROBLEM STATEMENT:
 Develop a machine learning model which can predict the number of calories a person has burnt during physical activities
+
 FLOW CHART:
 1. DATA COLLECTION 
 2. DATA CLEANING
@@ -9,6 +10,7 @@ FLOW CHART:
 5. DATA FRAME 2
 6. FEATURE SELECTION
 7. DATA FRAME 3
+   
 DATA SHAPE:
 This dataset contains 15000 rows and 8 columns
 DATASET COLUMNS:
