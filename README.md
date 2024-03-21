@@ -13,8 +13,10 @@ FLOW CHART:
    
 DATA SHAPE:
 This dataset contains 15000 rows and 8 columns
+
 DATASET COLUMNS:
 The target column of this data is “Calories” which has numerical data
 There are 7 independent columns such as Age, Height, Weight, Duration, Heart_Rate, Body_Temp
+
 DATA CLEANING:
 Data type conversion
